@@ -1,0 +1,11 @@
+# dotenv environment variables file
+.env
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+logs
+*.log
